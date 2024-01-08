@@ -1,0 +1,559 @@
+- prefecture: 北海道
+  cities:
+    - name: 札幌市中央区
+      latitude: 43.0618
+      longitude: 141.3545
+    - name: 札幌市南区
+      latitude: 42.9864
+      longitude: 141.3594
+    - name: 札幌市西区
+      latitude: 43.0632
+      longitude: 141.3010
+
+- prefecture: 青森県
+  cities:
+    - name: 青森市
+      latitude: 40.8244
+      longitude: 140.7400
+    - name: 弘前市
+      latitude: 40.6039
+      longitude: 140.4714
+    - name: 八戸市
+      latitude: 40.5128
+      longitude: 141.4881
+
+- prefecture: 岩手県
+  cities:
+    - name: 盛岡市
+      latitude: 39.7036
+      longitude: 141.1526
+    - name: 宮古市
+      latitude: 39.6417
+      longitude: 141.9571
+    - name: 大船渡市
+      latitude: 39.0726
+      longitude: 141.7106
+
+- prefecture: 宮城県
+  cities:
+    - name: 仙台市青葉区
+      latitude: 38.2682
+      longitude: 140.8694
+    - name: 仙台市宮城野区
+      latitude: 38.2886
+      longitude: 140.9644
+    - name: 仙台市泉区
+      latitude: 38.2635
+      longitude: 140.9038
+
+- prefecture: 秋田県
+  cities:
+    - name: 秋田市
+      latitude: 39.7199
+      longitude: 140.1030
+    - name: 大館市
+      latitude: 40.5461
+      longitude: 140.5577
+    - name: 横手市
+      latitude: 39.3131
+      longitude: 140.5533
+
+- prefecture: 山形県
+  cities:
+    - name: 山形市
+      latitude: 38.2554
+      longitude: 140.3394
+    - name: 米沢市
+      latitude: 37.9225
+      longitude: 140.1168
+    - name: 鶴岡市
+      latitude: 38.7189
+      longitude: 139.8264
+
+- prefecture: 福島県
+  cities:
+    - name: 福島市
+      latitude: 37.7605
+      longitude: 140.4728
+    - name: いわき市
+      latitude: 37.0500
+      longitude: 140.8877
+    - name: 会津若松市
+      latitude: 37.4944
+      longitude: 139.9290
+
+- prefecture: 茨城県
+  cities:
+    - name: 水戸市
+      latitude: 36.3656
+      longitude: 140.4714
+    - name: つくば市
+      latitude: 35.9182
+      longitude: 140.0774
+    - name: 古河市
+      latitude: 36.1838
+      longitude: 139.7019
+
+- prefecture: 栃木県
+  cities:
+    - name: 宇都宮市
+      latitude: 36.5552
+      longitude: 139.8829
+    - name: 小山市
+      latitude: 36.3086
+      longitude: 139.7830
+    - name: 佐野市
+      latitude: 36.3147
+      longitude: 139.5811
+
+- prefecture: 群馬県
+  cities:
+    - name: 前橋市
+      latitude: 36.3896
+      longitude: 139.0630
+    - name: 高崎市
+      latitude: 36.3259
+      longitude: 139.0071
+    - name: 桐生市
+      latitude: 36.3981
+      longitude: 139.3328
+
+- prefecture: 埼玉県
+  cities:
+    - name: さいたま市中央区
+      latitude: 35.8617
+      longitude: 139.6454
+    - name: 川口市
+      latitude: 35.8208
+      longitude: 139.7201
+    - name: 与野市
+      latitude: 35.8032
+      longitude: 139.6226
+
+- prefecture: 千葉県
+  cities:
+    - name: 千葉市中央区
+      latitude: 35.6073
+      longitude: 140.1064
+    - name: 船橋市
+      latitude: 35.6949
+      longitude: 139.9825
+    - name: 柏市
+      latitude: 35.8549
+      longitude: 139.9716
+
+- prefecture: 東京都
+  cities:
+    - name: 東京都千代田区
+      latitude: 35.6895
+      longitude: 139.6917
+    - name: 東京都港区
+      latitude: 35.6512
+      longitude: 139.7332
+    - name: 東京都新宿区
+      latitude: 35.6938
+      longitude: 139.7038
+
+- prefecture: 神奈川県
+  cities:
+    - name: 横浜市中区
+      latitude: 35.4437
+      longitude: 139.6402
+    - name: 川崎市川崎区
+      latitude: 35.5373
+      longitude: 139.6952
+    - name: 相模原市中央区
+      latitude: 35.5604
+      longitude: 139.3711
+- prefecture: 新潟県
+  cities:
+    - name: 新潟市中央区
+      latitude: 37.9182
+      longitude: 139.0362
+    - name: 新潟市江南区
+      latitude: 37.8706
+      longitude: 139.0128
+    - name: 新潟市秋葉区
+      latitude: 37.7510
+      longitude: 138.9816
+
+- prefecture: 富山県
+  cities:
+    - name: 富山市
+      latitude: 36.6951
+      longitude: 137.2137
+    - name: 高岡市
+      latitude: 36.7544
+      longitude: 137.0263
+    - name:  氷見市
+      latitude: 36.8563
+      longitude: 137.4144
+
+- prefecture: 石川県
+  cities:
+    - name: 金沢市
+      latitude: 36.5781
+      longitude: 136.6486
+    - name: 野々市市
+      latitude: 36.5480
+      longitude: 136.8736
+    - name: 松任市
+      latitude: 36.5612
+      longitude: 136.5820
+
+- prefecture: 福井県
+  cities:
+    - name: 福井市
+      latitude: 36.0652
+      longitude: 136.2218
+    - name: 敦賀市
+      latitude: 35.6472
+      longitude: 136.0554
+    - name: 大野市
+      latitude: 35.9917
+      longitude: 136.2303
+
+- prefecture: 山梨県
+  cities:
+    - name: 甲府市
+      latitude: 35.6634
+      longitude: 138.5685
+    - name: 甲斐市
+      latitude: 35.6211
+      longitude: 138.5846
+    - name: 中央市
+      latitude: 35.5552
+      longitude: 138.7472
+
+- prefecture: 長野県
+  cities:
+    - name: 長野市
+      latitude: 36.6486
+      longitude: 138.1948
+    - name: 松本市
+      latitude: 36.2314
+      longitude: 137.9721
+    - name: 上田市
+      latitude: 36.4024
+      longitude: 138.2520
+
+- prefecture: 岐阜県
+  cities:
+    - name: 岐阜市
+      latitude: 35.4228
+      longitude: 136.7606
+    - name: 大垣市
+      latitude: 35.3089
+      longitude: 136.6163
+    - name: 各務原市
+      latitude: 35.4039
+      longitude: 136.8697
+
+- prefecture: 静岡県
+  cities:
+    - name: 静岡市葵区
+      latitude: 34.9756
+      longitude: 138.3830
+    - name: 浜松市中区
+      latitude: 34.7103
+      longitude: 137.7268
+    - name: 熱海市
+      latitude: 35.0962
+      longitude: 139.0715
+
+- prefecture: 愛知県
+  cities:
+    - name: 名古屋市中区
+      latitude: 35.1681
+      longitude: 136.8816
+    - name: 名古屋市港区
+      latitude: 35.1859
+      longitude: 136.8990
+    - name: 名古屋市南区
+      latitude: 35.1023
+      longitude: 136.9065
+
+- prefecture: 三重県
+  cities:
+    - name: 津市
+      latitude: 34.7189
+      longitude: 136.5054
+    - name: 四日市市
+      latitude: 34.9666
+      longitude: 136.6255
+    - name: 伊勢市
+      latitude: 34.4860
+      longitude: 136.7067
+- prefecture: 滋賀県
+  cities:
+    - name: 大津市
+      latitude: 35.0214
+      longitude: 135.8542
+    - name: 彦根市
+      latitude: 35.2744
+      longitude: 136.2598
+    - name: 長浜市
+      latitude: 35.5487
+      longitude: 136.9656
+
+- prefecture: 京都府
+  cities:
+    - name: 京都市中京区
+      latitude: 35.0116
+      longitude: 135.7681
+    - name: 京都市左京区
+      latitude: 35.0259
+      longitude: 135.7910
+    - name: 京都市伏見区
+      latitude: 34.9256
+      longitude: 135.7795
+
+- prefecture: 大阪府
+  cities:
+    - name: 大阪市中央区
+      latitude: 34.6813
+      longitude: 135.5097
+    - name: 大阪市北区
+      latitude: 34.7055
+      longitude: 135.4948
+    - name: 大阪市浪速区
+      latitude: 34.6526
+      longitude: 135.5060
+
+- prefecture: 兵庫県
+  cities:
+    - name: 神戸市中央区
+      latitude: 34.6913
+      longitude: 135.1830
+    - name: 神戸市東灘区
+      latitude: 34.7141
+      longitude: 135.2567
+    - name: 神戸市兵庫区
+      latitude: 34.6820
+      longitude: 135.1957
+
+- prefecture: 奈良県
+  cities:
+    - name: 奈良市
+      latitude: 34.6854
+      longitude: 135.8328
+    - name: 大和高田市
+      latitude: 34.5284
+      longitude: 135.8376
+    - name: 橿原市
+      latitude: 34.5095
+      longitude: 135.7923
+
+- prefecture: 和歌山県
+  cities:
+    - name: 和歌山市
+      latitude: 34.2260
+      longitude: 135.1675
+    - name: 新宮市
+      latitude: 33.7286
+      longitude: 135.9915
+    - name: 串本町
+      latitude: 33.4722
+      longitude: 135.7801
+
+- prefecture: 鳥取県
+  cities:
+    - name: 鳥取市
+      latitude: 35.5006
+      longitude: 134.2350
+    - name: 倉吉市
+      latitude: 35.4273
+      longitude: 133.8175
+    - name: 米子市
+      latitude: 35.4286
+      longitude: 133.3302
+
+- prefecture: 島根県
+  cities:
+    - name: 松江市
+      latitude: 35.4681
+      longitude: 133.0484
+    - name: 出雲市
+      latitude: 35.3668
+      longitude: 132.7549
+    - name: 浜田市
+      latitude: 34.7031
+      longitude: 132.0754
+
+- prefecture: 岡山県
+  cities:
+    - name: 岡山市中区
+      latitude: 34.6559
+      longitude: 133.9195
+    - name: 岡山市北区
+      latitude: 34.6554
+      longitude: 133.9169
+    - name: 岡山市東区
+      latitude: 34.6579
+      longitude: 133.9305
+
+- prefecture: 広島県
+  cities:
+    - name: 広島市中区
+      latitude: 34.3852
+      longitude: 132.4553
+    - name: 広島市南区
+      latitude: 34.3624
+      longitude: 132.4568
+    - name: 広島市西区
+      latitude: 34.3852
+      longitude: 132.3499
+- prefecture: 山口県
+  cities:
+    - name: 山口市
+      latitude: 34.1781
+      longitude: 131.4734
+    - name: 下関市
+      latitude: 33.9578
+      longitude: 130.9426
+    - name: 宇部市
+      latitude: 33.9526
+      longitude: 131.2468
+
+- prefecture: 徳島県
+  cities:
+    - name: 徳島市
+      latitude: 34.0708
+      longitude: 134.5544
+    - name: 鳴門市
+      latitude: 34.1651
+      longitude: 134.6092
+    - name: 小松島市
+      latitude: 34.0082
+      longitude: 134.5769
+
+- prefecture: 香川県
+  cities:
+    - name: 高松市
+      latitude: 34.3402
+      longitude: 134.0438
+    - name: 丸亀市
+      latitude: 34.2864
+      longitude: 133.7938
+    - name: 善通寺市
+      latitude: 34.1834
+      longitude: 133.7832
+
+- prefecture: 愛媛県
+  cities:
+    - name: 松山市
+      latitude: 33.8394
+      longitude: 132.7661
+    - name: 今治市
+      latitude: 34.0661
+      longitude: 132.9976
+    - name: 伊予市
+      latitude: 33.7883
+      longitude: 132.7516
+
+- prefecture: 高知県
+  cities:
+    - name: 高知市
+      latitude: 33.5588
+      longitude: 133.5311
+    - name: 宿毛市
+      latitude: 32.9383
+      longitude: 132.7017
+    - name: 須崎市
+      latitude: 32.9383
+      longitude: 132.7017
+
+- prefecture: 福岡県
+  cities:
+    - name: 福岡市博多区
+      latitude: 33.5904
+      longitude: 130.4017
+    - name: 北九州市小倉北区
+      latitude: 33.8816
+      longitude: 130.8748
+    - name: 福岡市東区
+      latitude: 33.6072
+      longitude: 130.4181
+
+- prefecture: 佐賀県
+  cities:
+    - name: 佐賀市
+      latitude: 33.2638
+      longitude: 130.3004
+    - name: 唐津市
+      latitude: 33.4075
+      longitude: 129.9669
+    - name: 鳥栖市
+      latitude: 33.3816
+      longitude: 130.5124
+
+- prefecture: 長崎県
+  cities:
+    - name: 長崎市
+      latitude: 32.7503
+      longitude: 129.8779
+    - name: 佐世保市
+      latitude: 33.1577
+      longitude: 129.7376
+    - name: 鳥取市
+      latitude: 32.4864
+      longitude: 129.9050
+
+- prefecture: 熊本県
+  cities:
+    - name: 熊本市中央区
+      latitude: 32.8030
+      longitude: 130.7079
+    - name: 大分市
+      latitude: 33.2382
+      longitude: 131.6126
+    - name: 宇佐市
+      latitude: 33.5988
+      longitude: 131.2705
+- prefecture: 大分県
+  cities:
+    - name: 大分市
+      latitude: 33.2382
+      longitude: 131.6126
+    - name: 別府市
+      latitude: 33.2846
+      longitude: 131.4910
+    - name: 中津市
+      latitude: 33.6000
+      longitude: 131.1872
+
+- prefecture: 宮崎県
+  cities:
+    - name: 宮崎市
+      latitude: 31.9111
+      longitude: 131.4239
+    - name: 都城市
+      latitude: 31.7198
+      longitude: 131.0680
+    - name: 宮崎市西都市
+      latitude: 31.7198
+      longitude: 130.9689
+
+- prefecture: 鹿児島県
+  cities:
+    - name: 鹿児島市
+      latitude: 31.5949
+      longitude: 130.5618
+    - name: 鹿屋市
+      latitude: 31.3796
+      longitude: 130.8479
+    - name: 出水市
+      latitude: 32.0860
+      longitude: 130.2960
+
+- prefecture: 沖縄県
+  cities:
+    - name: 那覇市
+      latitude: 26.2124
+      longitude: 127.6791
+    - name: 浦添市
+      latitude: 26.2545
+      longitude: 127.7216
+    - name: 宜野湾市
+      latitude: 26.2743
+      longitude: 127.7140

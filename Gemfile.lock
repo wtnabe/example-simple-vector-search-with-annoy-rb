@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    annoy-rb (0.7.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  annoy-rb
+
+BUNDLED WITH
+   2.3.13
